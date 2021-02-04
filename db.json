@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": 4,
+      "name": "Hazem",
+      "age": 25,
+      "phone": "01025894752"
+    },
+    {
+      "id": 5,
+      "name": "Hossam",
+      "age": 25,
+      "phone": "01025894752"
+    },
+    {
+      "name": "Mahmoud",
+      "age": "20",
+      "phone": "01025894752",
+      "id": 6
+    }
+  ]
+}
